@@ -1,0 +1,39 @@
+.ment
+{
+	left: 80px;
+    top: 190px;
+    width: 1200px;
+    height: 300px;
+    font-family: tw cen mt;
+}
+
+.DormNav
+{
+	left: 560px;
+	width: 247px;
+}
+
+.signUp2
+{
+    width: 700px;
+    height: 260px;
+    position: absolute;
+    top: 200px;
+    left: -720px;
+    border-style: solid;
+    border-width: 3px;
+    border-color: black;
+    background-color: white;
+    -webkit-transition: .5s;
+}
+
+.di{
+    width: 1220px;
+    height: 320px;
+    position: absolute;
+    left: -1240px;
+}
+
+
+
+

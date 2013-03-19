@@ -1,0 +1,36 @@
+/*-----------------------------------------------------
+Dorm Manager's navigation styling
+-----------------------------------------------------*/
+.DMNav
+{
+	left: 500px;
+	width: 366px;
+}
+
+td{
+	border: solid 1px black;
+}
+
+.holder2
+{
+	position: absolute;
+	left: 50px;
+	width: 700px;
+	height: 350px;
+	border-style: solid;
+	border-width: 2px;
+	overflow: scroll;
+}
+
+.announce2
+{
+	position: absolute;
+	left: -820px;
+	top: 150px;
+	width: 800px;
+	height: 430px;
+	border-style: solid;
+	border-width: 5px;
+	background-color: white;
+	-webkit-transition: all .5s;
+}
